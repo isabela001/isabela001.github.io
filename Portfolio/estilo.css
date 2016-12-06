@@ -1,0 +1,62 @@
+@charset "UTF-8";
+.jumbotron {
+	background-image: url(img/cup-of-coffee-1280537.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 900px;
+}
+.jumbotron h1 {
+	color: #FFFFFF;
+	margin-top: 350px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+.col-md-12.vazio {
+	height: 100px;
+}
+#Ilustraçoes {
+	height: 400px;
+}
+#SobreMim .col-md-6 {
+	height: 400px;
+}
+
+header nav {
+	position: absolute;
+	right: 100px;
+}
+a {
+	color: #FFFFFF;
+	text-decoration: none;
+	font-size: 18px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-weight: 400;
+}
+a:hover {
+	color: #8C8C8C;
+
+}
+ul {
+	list-style-type: none;
+	margin-top: 23px;
+
+}
+li {
+	display: inline;
+	margin-left: 50px; }
+.nav {
+	background-color: #0F6C94;
+}
+
+
+.nav-pills li .active {
+	backgroound-color:#D71B1E;
+	}
+.jumbotronbg {
+	height: 200px;
+	background-image: url(img/Texture_Boards_Wooden_478676.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
